@@ -7,10 +7,12 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Ans: Software engineering if the application of engineering principles and methods to the development of high-quality software systems.
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 Ans:  1. Development of programming language.
       2. Establishment of software engineering as a discipline.
       3. The advent of structured programming.
+      
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Ans:  1. Requirement: gathering and documenting user needs amd system requirements.
@@ -19,6 +21,7 @@ Ans:  1. Requirement: gathering and documenting user needs amd system requiremen
       4. Testing: making sure that the software runs well and is bug free.
       5. Deployment: this is the hosting of the software.
       6. Maintenance: making sure that the software continues to run perfectly. 
+      
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
@@ -38,6 +41,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 Ans:  1. Changing Requirements
       2. Tight Deadlines
       3. Technical Debt
+
       
 b. Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
@@ -47,6 +51,7 @@ Ans:  1. Unit Testing: Testing individual components or modules of software.
       2. Integration Testing: Testing interactions between different components or subsystems.
       3. System Testing: Testing the entire software system as a whole.
       4. Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+
 
 b. Importance of Quality Control: Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
